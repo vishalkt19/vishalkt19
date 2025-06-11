@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is VISHAL K T
 ==================================================================================================================================
 
-UG STUDENT
+Data Scientist
 ----------
 
-I'm pursuing my BE with a passion for AI.I bring a fresh perspective, a willingness to learn, and a strong work ethic to any job I take on. I love the ever growing aspect of technology.
+Data Scientist at Bosch with expertise in AI and predictive analytics. Utilized Python and Power BI to optimize complaint investigation processes, resulting in improved response times. Strong background in cross-functional collaboration and data-driven problem solving, focusing on machine learning and generative AI solutions.
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [vishalkt19@gmail.com](mailto:vishalkt19@gmail.com)
