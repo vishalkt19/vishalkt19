@@ -8,7 +8,6 @@ Data Scientist at Bosch with expertise in AI and predictive analytics. Utilized 
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [vishalkt19@gmail.com](mailto:vishalkt19@gmail.com)
-* 🧠  I'm learning Machine Learning
 * 💾 You can view my Certifications here 
 https://drive.google.com/drive/folders/1IGFG7WcT_8VGSOUl53LaBhJ-sKQ43OL9
 
