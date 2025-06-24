@@ -4,7 +4,36 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 ----------
 
-Data Scientist at Bosch with expertise in AI and predictive analytics. Utilized Python and Power BI to optimize complaint investigation processes, resulting in improved response times. Strong background in cross-functional collaboration and data-driven problem solving, focusing on machine learning and generative AI solutions.
+Data Scientist | AI Engineer | Power BI Developer | Generative AI Enthusiast
+
+I'm currently a Data Scientist at Bosch, where I develop data-driven and AI-powered solutions that improve operational efficiency and customer satisfaction in the automotive manufacturing domain. My work focuses on building scalable dashboards, intelligent automation tools, and GenAI systems that translate complex business problems into measurable impact.
+
+🔧 What I work on:
+
+Power BI dashboards for quality alerts, diagnostics, and KPI monitoring
+
+AI & ML models for predictive warranty decisions and anomaly detection
+
+GenAI-powered tools like multi-agent bots, LLM-based search engines, and diagnostic assistants
+
+CI/CD pipelines, automated reporting, and Azure-based data solutions
+
+🚀 Impact so far:
+
+₹2M+ in cost savings through AI automation and data intelligence
+
+40% reduction in QC response time using 8D alerting dashboards
+
+30% reduction in unnecessary part replacements using a GenAI diagnostic bot
+
+20% time saved via automated document lookup and parameter extraction tools
+
+📦 Tech stack:
+Python SQL Power BI DAX Power Query Azure Databricks SSAS Tabular
+LangChain LLMs TensorFlow Scikit-learn GitHub Actions MongoDB Streamlit
+
+🎯 I’m passionate about bridging real-world problems with future-ready tech — especially in AI, automation, and decision intelligence.
+
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [vishalkt19@gmail.com](mailto:vishalkt19@gmail.com)
